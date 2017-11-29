@@ -1,0 +1,94 @@
+D:\other projects\SQLite\SQLite\bin\Debug\SQLite.dll
+D:\other projects\SQLite\SQLite\bin\Debug\SQLite.pdb
+D:\other projects\SQLite\SQLite\bin\Debug\SQLite.SQLite.apk
+D:\other projects\SQLite\SQLite\bin\Debug\SQLite.SQLite-Signed.apk
+D:\other projects\SQLite\SQLite\obj\Debug\SQLite.dll
+D:\other projects\SQLite\SQLite\obj\Debug\SQLite.pdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\bin\SQLite.SQLite.apk
+D:\other projects\SQLite\SQLite\obj\Debug\res\layout\newuser.xml
+D:\other projects\SQLite\SQLite\obj\Debug\res\layout\main.xml
+D:\other projects\SQLite\SQLite\obj\Debug\res\values\strings.xml
+D:\other projects\SQLite\SQLite\obj\Debug\res\drawable\icon.png
+D:\other projects\SQLite\SQLite\obj\Debug\R.cs.flag
+D:\other projects\SQLite\SQLite\obj\Debug\uploadflags.txt
+D:\other projects\SQLite\SQLite\bin\Debug\SQLite.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\Java.Interop.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\Mono.Android.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\mscorlib.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\System.Core.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\System.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\System.Net.Http.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\System.Xml.dll.mdb
+D:\other projects\SQLite\SQLite\bin\Debug\System.Xml.Linq.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\SQLite.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\System.Core.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\System.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\other projects\SQLite\SQLite\obj\Debug\SQLite.csprojResolveAssemblyReference.cache
+D:\other projects\SQLite\SQLite\obj\Debug\res\layout\home.xml
+D:\other projects\SQLite\SQLite\obj\Debug\SQLite.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\SQLite.dll
+D:\otherprojects\SQLite\SQLite\bin\Debug\SQLite.pdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\SQLite.SQLite.apk
+D:\otherprojects\SQLite\SQLite\bin\Debug\SQLite.SQLite-Signed.apk
+D:\otherprojects\SQLite\SQLite\obj\Debug\SQLite.csprojResolveAssemblyReference.cache
+D:\otherprojects\SQLite\SQLite\obj\Debug\SQLite.dll
+D:\otherprojects\SQLite\SQLite\obj\Debug\SQLite.pdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\bin\SQLite.SQLite.apk
+D:\otherprojects\SQLite\SQLite\obj\Debug\res\layout\newuser.xml
+D:\otherprojects\SQLite\SQLite\obj\Debug\res\layout\home.xml
+D:\otherprojects\SQLite\SQLite\obj\Debug\res\layout\main.xml
+D:\otherprojects\SQLite\SQLite\obj\Debug\res\values\strings.xml
+D:\otherprojects\SQLite\SQLite\obj\Debug\res\drawable\icon.png
+D:\otherprojects\SQLite\SQLite\obj\Debug\R.cs.flag
+D:\otherprojects\SQLite\SQLite\obj\Debug\uploadflags.txt
+D:\otherprojects\SQLite\SQLite\bin\Debug\Java.Interop.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\Mono.Android.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\mscorlib.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\SQLite.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.Core.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.Net.Http.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.Xml.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.Xml.Linq.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\SQLite.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.Core.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\res\drawable\rescyou.png
+D:\otherprojects\SQLite\SQLite\obj\Debug\res\drawable\rescyoularge.png
+D:\otherprojects\SQLite\SQLite\obj\Debug\res\values\integers.xml
+D:\otherprojects\SQLite\SQLite\bin\Debug\Newtonsoft.Json.dll
+D:\otherprojects\SQLite\SQLite\bin\Debug\Newtonsoft.Json.xml
+D:\otherprojects\SQLite\SQLite\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\Mono.CSharp.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.IO.Compression.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\System.Numerics.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\android\assets\System.Numerics.dll.mdb
+D:\otherprojects\SQLite\SQLite\obj\Debug\SQLite.dll.mdb
+D:\otherprojects\SQLite\SQLite\bin\Debug\SQLite.dll.mdb

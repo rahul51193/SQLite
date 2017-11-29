@@ -1,0 +1,12 @@
+SQLite.HomeActivity, SQLite;md5669b0693ed80bd11f83592b00c57b22d.HomeActivity
+SQLite.HomeActivity, SQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5669b0693ed80bd11f83592b00c57b22d.HomeActivity
+SQLite.HomeActivity;md5669b0693ed80bd11f83592b00c57b22d.HomeActivity
+sqlite.HomeActivity;md5669b0693ed80bd11f83592b00c57b22d.HomeActivity
+SQLite.MainActivity, SQLite;md5669b0693ed80bd11f83592b00c57b22d.MainActivity
+SQLite.MainActivity, SQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5669b0693ed80bd11f83592b00c57b22d.MainActivity
+SQLite.MainActivity;md5669b0693ed80bd11f83592b00c57b22d.MainActivity
+sqlite.MainActivity;md5669b0693ed80bd11f83592b00c57b22d.MainActivity
+SQLite.RegisterActivity, SQLite;md5669b0693ed80bd11f83592b00c57b22d.RegisterActivity
+SQLite.RegisterActivity, SQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5669b0693ed80bd11f83592b00c57b22d.RegisterActivity
+SQLite.RegisterActivity;md5669b0693ed80bd11f83592b00c57b22d.RegisterActivity
+sqlite.RegisterActivity;md5669b0693ed80bd11f83592b00c57b22d.RegisterActivity
